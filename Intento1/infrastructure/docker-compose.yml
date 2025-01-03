@@ -1,0 +1,33 @@
+services:
+  # Backend
+  backend-services:
+    container_name: backend
+    build:
+      context: ${CONTEXT}
+      dockerfile: ./infrastructure/Universidades/Dockerfile
+    environment:
+      ASPNETCORE_HTTP_PORTS: "80" 
+    depends_on:
+      mysql:
+        condition: service_healthy
+    ports:
+      - "8080:80" 
+    volumes:
+      - ${CONTEXT}/infrastructure/Universidades/dbsettings.json:/webapp/dbsettings.json
+
+
+  # Base de datos
+  mysql:
+    image: mysql:9
+    container_name: mysql_container
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: ${BD_PASSWORD}
+      MYSQL_DATABASE: ${DATABASE}
+    volumes:
+      - ${CONTEXT}/infrastructure/Universidades/BD:/docker-entrypoint-initdb.d
+      - ${CONTEXT}/infrastructure/Universidades/BD/Data:/var/lib/mysql-files/
+    healthcheck:
+      test: ["CMD-SHELL", "mysql -u root -p${BD_PASSWORD} --execute 'SELECT @@GLOBAL.version;'"]
+      interval: 2s
+      retries: 60

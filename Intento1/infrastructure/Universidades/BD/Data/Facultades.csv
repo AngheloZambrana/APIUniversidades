@@ -1,0 +1,105 @@
+Id,Nombre,Descricpion,UniversidadID
+1,Facultad de Ciencias Económicas y Empresariales,Ofrece formación en áreas como administración economía y contaduría.,2
+2,Facultad de Ingeniería,Especializada en diversas ramas de la ingeniería.,2
+3,Facultad de Medicina,Forma profesionales en el área de la salud.,2
+4,Facultad de Ciencias Sociales,Se enfoca en disciplinas como psicología y sociología.,2
+5,Facultad de Ciencias Empresariales,Ofrece programas en administración marketing y finanzas.,3
+6,Facultad de Derecho,Forma abogados con un enfoque en la ética y la justicia.,3
+7,Facultad de Ingeniería,Incluye especialidades en ingeniería civil industrial y sistemas.,3
+8,Facultad de Ciencias de la Salud,Enfocada en medicina enfermería y otras áreas relacionadas con la salud.,3
+9,Facultad de Ciencias de la Educación,Ofrece programas orientados a la formación docente y a la investigación en el ámbito educativo.,4
+10,Facultad de Ciencias Económicas y Empresariales,Proporciona formación en áreas como administración contaduría y economía preparando a los estudiantes para el mundo empresarial.,4
+11,Facultad de Ingeniería,Se enfoca en la formación técnica y profesional en diversas ramas de la ingeniería incluyendo ingeniería comercial.,4
+12,Facultad de Medicina,Ofrece una formación integral en medicina preparando a los futuros profesionales para enfrentar los desafíos del sistema de salud.,4
+13,Facultad de Fisioterapia y Kinesiología,Especializada en la formación de profesionales en fisioterapia con un enfoque en la rehabilitación y el bienestar físico.,4
+14,Facultad de Administración de Empresas Turísticas Hoteleras y Gastronómicas,Capacita a los estudiantes en la gestión y administración dentro del sector turístico y hotelero incluyendo aspectos gastronómicos.,4
+15,Facultad de Ingeniería,Ofrece programas en diversas ramas de la ingeniería incluyendo Ingeniería de Sistemas y Ambiental preparando a los estudiantes para desafíos tecnológicos y ambientales.,5
+16,Facultad de Ciencias de la Salud,Incluye carreras como Enfermería Fisioterapia y Kinesiología enfocándose en la formación de profesionales en el área de la salud.,5
+17,Facultad de Ciencias Sociales y Humanidades,Proporciona formación en Psicología y Teología promoviendo un entendimiento profundo del comportamiento humano y los valores cristianos.,5
+18,Facultad de Administración y Negocios,Se centra en la formación en áreas como Contaduría Pública y Administración de Negocios Internacionales preparando a los estudiantes para el mundo empresarial.,5
+19,Facultad de Educación,Ofrece programas para formar educadores competentes incluyendo Psicopedagogía y Diplomados en Educación con un enfoque en metodologías modernas.,5
+20,Facultad de Ciencias Empresariales,Ofrece programas en Administración de Empresas Ingeniería Comercial y Economía preparando a los estudiantes para enfrentar desafíos en el ámbito empresarial.,6
+21,Facultad de Ingeniería,Proporciona formación en diversas ramas de la ingeniería incluyendo Ingeniería Financiera y Arquitectura enfocándose en la innovación y el desarrollo tecnológico.,6
+22,Facultad de Ciencias Sociales y Humanidades,Incluye carreras como Psicología y Comunicación promoviendo un entendimiento profundo del comportamiento humano y la comunicación efectiva en diferentes contextos.,6
+23,Facultad de Derecho,Forma profesionales con sólidos conocimientos jurídicos capacitados para ofrecer soluciones legales en el ámbito nacional e internacional.,6
+24,Facultad de Diseño y Arte,Se centra en áreas como Diseño Gráfico y Artes Visuales fomentando la creatividad y la capacidad de comunicación visual en el contexto empresarial y social.,6
+25,Facultad de Ciencias de la Salud,Ofrece carreras como Medicina Odontología Enfermería y Fisioterapia formando profesionales capacitados para atender las necesidades de salud de la comunidad.,7
+26,Facultad de Ingeniería,Incluye programas en Ingeniería de Sistemas Electrónica y Biomédica preparando a los estudiantes para enfrentar desafíos tecnológicos y de innovación.,7
+27,Facultad de Ciencias Administrativas,Proporciona formación en Administración de Empresas Contaduría Pública y Economía enfocándose en el desarrollo de habilidades gerenciales y financieras.,7
+28,Facultad de Comunicación Social,Se centra en la formación en Comunicación Social promoviendo competencias en medios y relaciones públicas.,7
+29,Facultad de Derecho,Forma profesionales con conocimientos jurídicos sólidos capacitados para ofrecer soluciones legales en el ámbito nacional e internacional.,7
+30,Facultad de Artes y Escultura,Ofrece programas en Artes y Escultura fomentando la creatividad y el desarrollo artístico en diversas disciplinas.,7
+31,Facultad de Ciencias Sociales,Incluye carreras como Psicología enfocándose en el estudio del comportamiento humano y su aplicación en contextos sociales.,7
+32,Facultad de Ciencias de la Salud,Ofrece carreras como Licenciatura en Medicina Odontología Óptica y Optometría y Enfermería formando profesionales capacitados en el área de la salud.,8
+33,Facultad de Ciencias y Tecnología,Incluye programas en Ingeniería Civil Ingeniería en Sistemas e Ingeniería en Geodesia y Topografía enfocándose en el desarrollo tecnológico y científico.,8
+34,Facultad de Ciencias Económicas Jurídicas y Humanidades,Proporciona formación en Auditoría Derecho y Ciencias de la Educación preparando a los estudiantes para roles en el ámbito económico y social.,8
+35,Facultad de Ciencias de la Salud,Ofrece carreras como Medicina Odontología Enfermería y Fisioterapia formando profesionales capacitados para atender diversas necesidades en el ámbito de la salud.,9
+36,Facultad de Ingeniería,Incluye programas en Ingeniería Comercial e Ingeniería Financiera preparando a los estudiantes para enfrentar desafíos en el sector tecnológico y financiero.,9
+37,Facultad de Ciencias Administrativas,Proporciona formación en Administración Estratégica de Empresas enfocándose en el desarrollo de habilidades gerenciales y estratégicas.,9
+38,Facultad de Derecho,Forma abogados con sólidos conocimientos en diversas ramas del derecho incluyendo Derecho Procesal y Ciencias Forenses capacitados para ejercer en diferentes contextos legales.,9
+39,Facultad de Comunicación Social,Se centra en la formación en Comunicación Social promoviendo competencias en redacción edición y gestión de proyectos digitales en marketing.,9
+40,Facultad de Psicología,Ofrece programas que abordan diversas áreas de la psicología incluyendo Psicología Clínica y temas relacionados con la violencia y la intervención psicoanalítica.,9
+41,Facultad de Ciencias Económicas y Empresariales,Ofrece programas en áreas como Administración de Empresas Contaduría Pública y Economía preparando a los estudiantes para el mundo empresarial.,10
+42,Facultad de Ingeniería,Incluye carreras en Ingeniería Civil Ingeniería Industrial y Arquitectura enfocándose en la formación técnica y profesional en diversas disciplinas de la ingeniería.,10
+43,Facultad de Ciencias y Artes,Proporciona formación en áreas artísticas y culturales promoviendo la creatividad y el desarrollo de habilidades en artes visuales y escénicas.,10
+44,Facultad de Ciencias Sociales,Se centra en programas como Psicología y Trabajo Social formando profesionales capacitados para abordar problemas sociales y psicológicos.,10
+45,Facultad de Ciencias del Medio Ambiente,Ofrece carreras que abordan la sostenibilidad y el manejo ambiental preparando a los estudiantes para enfrentar desafíos ecológicos contemporáneos.,10
+46,Facultad de Ciencias Empresariales,Ofrece programas en Administración de Empresas Contaduría Pública Ingeniería en Gestión Empresarial e Ingeniería Comercial preparando a los estudiantes para el ámbito empresarial.,11
+47,Facultad de Ciencias Tecnológicas,Incluye carreras como Ingeniería de Sistemas Ingeniería Mecatrónica e Ingeniería Industrial enfocándose en el desarrollo tecnológico y la innovación.,11
+48,Facultad de Ciencias Sociales,Proporciona formación en Turismo y Hotelería Comunicación Social Publicidad y Marketing Diseño Gráfico y Gastronomía promoviendo habilidades creativas y comunicativas.,11
+49,Facultad de Educación,Se centra en la formación pedagógica preparando a los futuros educadores para abordar diversos contextos educativos con un enfoque práctico.,11
+50,Facultad de Ciencias Sociales,Ofrece programas que abordan temas de desarrollo comunitario sociología y antropología enfocándose en la realidad y necesidades de las comunidades indígenas.,12
+51,Facultad de Educación,Se centra en la formación de educadores con un enfoque en la educación intercultural preparando a los estudiantes para trabajar en contextos educativos diversos.,12
+52,Facultad de Ciencias Ambientales,Proporciona formación en gestión ambiental y desarrollo sostenible promoviendo el respeto por la naturaleza y los saberes ancestrales.,12
+53,Facultad de Salud,Incluye programas en áreas como medicina tradicional y salud comunitaria enfocándose en la atención integral de las comunidades indígenas.,12
+54,Facultad de Ingeniería Civil,Ofrece formación en diseño construcción y mantenimiento de infraestructuras preparando a los estudiantes para enfrentar desafíos en el desarrollo urbano y rural.,13
+55,Facultad de Ingeniería Electrónica,Se centra en la formación en sistemas electrónicos y telecomunicaciones capacitando a los estudiantes para trabajar en tecnologías avanzadas.,13
+56,Facultad de Ingeniería de Sistemas,Proporciona educación en el desarrollo y gestión de software así como en la administración de sistemas informáticos.,13
+57,Facultad de Ingeniería Mecánica,Incluye programas que abordan el diseño y análisis de máquinas y sistemas mecánicos preparando a los estudiantes para el sector industrial.,13
+58,Facultad de Ingeniería Ambiental,Enfocada en la gestión ambiental y el desarrollo sostenible formando profesionales capaces de abordar problemas ecológicos contemporáneos.,13
+59,Facultad de Ingeniería Industrial,Ofrece formación en optimización de procesos productivos y gestión empresarial preparando a los estudiantes para roles en la industria.,13
+60,Facultad de Ciencias Sociales y Humanidades,Ofrece carreras como Derecho Psicología Comunicación Social y Relaciones Internacionales enfocándose en la formación integral y el análisis crítico de las realidades sociales.,14
+61,Facultad de Ciencias Económicas y Empresariales,Se centra en la formación en áreas como Administración de Empresas Contaduría Pública y Economía preparando a los estudiantes para el ámbito empresarial y financiero.,14
+62,Facultad de Ingeniería,Proporciona programas en Ingeniería Civil Ingeniería de Sistemas y otras especialidades técnicas con un enfoque en la innovación y el desarrollo tecnológico.,14
+63,Facultad de Arquitectura y Diseño,Ofrece formación en Arquitectura y Diseño Gráfico promoviendo la creatividad y el diseño funcional en contextos urbanos y rurales.,14
+64,Facultad de Ciencias de la Salud,Incluye carreras como Medicina Odontología y Enfermería enfocándose en la formación profesional para el cuidado de la salud.,14
+65,Facultad de Educación,Se dedica a la formación de docentes en diversas áreas educativas promoviendo metodologías innovadoras y enfoques pedagógicos contemporáneos.,14
+66,Facultad de Ciencias Empresariales,Ofrece licenciaturas en Administración de Empresas Marketing y Contabilidad preparando a los estudiantes para el ámbito empresarial.,15
+67,Facultad de Ciencias Sociales,Incluye carreras como Psicología y Trabajo Social enfocándose en el análisis y la intervención en contextos sociales.,15
+68,Facultad de Derecho,Proporciona formación en Derecho preparando a los estudiantes para ejercer como abogados con una sólida base ética.,15
+69,Facultad de Ingeniería,Ofrece programas en Ingeniería Industrial e Ingeniería de Sistemas centrados en la innovación y el uso de tecnología.,15
+70,Facultad de Educación,Se dedica a la formación de docentes promoviendo metodologías pedagógicas contemporáneas.,15
+71,Facultad de Comunicación,Ofrece licenciaturas en Comunicación Social y Publicidad enfocándose en las habilidades comunicativas y creativas.,15
+72,Facultad de Ciencias de la Salud,Incluye carreras relacionadas con la salud aunque no se especifican en los resultados.,15
+73,Carreras a Distancia,La universidad también ofrece 4 licenciaturas a distancia permitiendo flexibilidad para los estudiantes.,15
+74,Facultad de Derecho,Ofrece programas relacionados con el Derecho incluyendo especializaciones en áreas como Derecho de la Economía Digital y Derechos Humanos.,16
+75,Facultad de Ciencias Sociales,Incluye maestrías en Estudios Sociales y Globales así como especializaciones en Comunicación Política y Derechos de la Naturaleza.,16
+76,Facultad de Comunicación,Ofrece maestrías en Comunicación Transmedia y Estrategia y Transformación Digital enfocándose en las nuevas tendencias comunicativas.,16
+77,Facultad de Salud,Incluye programas relacionados con la salud como Gestión de Riesgos de Desastres y Ecología Política.,16
+78,Facultad de Gestión,Proporciona un MBA y otros programas centrados en la administración y gestión empresarial.,16
+79,Facultad de Ambiente y Sustentabilidad,Ofrece especializaciones que abordan temas ambientales y sostenibles promoviendo un enfoque crítico hacia el desarrollo.,16
+80,Facultad de Historia y Letras,Incluye programas que exploran la historia y la cultura a través de un enfoque académico riguroso.,16
+81,Facultad de Ingeniería,Ofrece programas en diversas ramas de la ingeniería incluyendo Ingeniería Industrial Ingeniería de Minas y otras especialidades técnicas.,17
+82,Facultad de Ciencias Administrativas,Proporciona formación en Administración de Empresas y Contabilidad preparando a los estudiantes para el ámbito empresarial y administrativo.,17
+83,Facultad de Ciencias Sociales,Incluye carreras en áreas como Trabajo Social y Psicología enfocándose en el desarrollo social y comunitario.,17
+84,Facultad de Educación,Se dedica a la formación docente promoviendo metodologías innovadoras para la enseñanza.,17
+85,Facultad de Tecnología e Informática,Ofrece programas en Tecnología de la Información y Sistemas Computacionales preparando a los estudiantes para el mundo digital.,17
+86,Facultad de Salud,Incluye programas relacionados con la salud aunque no se especifican en los resultados.,17
+87,Programas de Postgrado,La UNSXX también ofrece programas de posgrado a distancia diseñados para profesionales que buscan mejorar sus habilidades y conocimientos.,17
+88,Facultad de Derecho,Ofrece programas en Derecho preparando a los estudiantes para ejercer la profesión legal con una sólida formación ética y técnica.,18
+89,Facultad de Ciencias Económicas y Empresariales,Incluye carreras en Administración de Empresas Contaduría Pública y Economía enfocándose en el desarrollo empresarial y financiero.,18
+90,Facultad de Ingeniería,Proporciona formación en diversas ramas de ingeniería como Ingeniería Civil Ingeniería Industrial e Ingeniería de Sistemas.,18
+91,Facultad de Ciencias Sociales,Ofrece programas en Psicología Trabajo Social y Sociología centrados en el análisis social y el desarrollo comunitario.,18
+92,Facultad de Medicina,Se dedica a la formación de profesionales en Medicina promoviendo un enfoque integral en la salud.,18
+93,Facultad de Educación,Proporciona formación docente con énfasis en metodologías innovadoras y educación inclusiva.,18
+94,Facultad de Arquitectura,Ofrece programas en Arquitectura y Diseño Urbano promoviendo el desarrollo sostenible y la planificación urbana.,18
+95,Facultad de Tecnología e Informática,Incluye carreras en Sistemas de Información y Tecnología de la Información preparando a los estudiantes para el mundo digital.,18
+96,Facultades Integrales,Estas facultades ofrecen programas interdisciplinares que abarcan diversas áreas del conocimiento.,18
+97,Facultad de Ingeniería,Ofrece programas en diversas ramas de la ingeniería como Ingeniería Civil Ingeniería Electrónica e Ingeniería de Sistemas.,19
+98,Facultad de Ciencias Económicas y Empresariales,Incluye carreras en Administración de Empresas Contaduría Pública y Economía enfocándose en la formación empresarial.,19
+99,Facultad de Ciencias Sociales,Ofrece programas en Psicología Trabajo Social y Sociología centrados en el desarrollo social y comunitario.,19
+100,Facultad de Derecho,Proporciona formación en Derecho preparando a los estudiantes para ejercer la profesión legal con una sólida base ética.,19
+101,Facultad de Educación,Se dedica a la formación docente promoviendo metodologías innovadoras y enfoques pedagógicos contemporáneos.,19
+102,Facultad de Medicina,Ofrece programas en Medicina enfocándose en la formación integral del profesional de la salud.,19
+103,Facultad de Arquitectura,Proporciona formación en Arquitectura y Diseño Urbano promoviendo el desarrollo sostenible y la planificación urbana.,19
+104,Facultades Integrales,Estas facultades ofrecen programas interdisciplinares que abarcan diversas áreas del conocimiento.,19

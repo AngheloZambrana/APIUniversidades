@@ -1,0 +1,5 @@
+{
+    "DbSettings" : {
+        "ConnectionUrl" : "server=mysql;port=3306;uid=root;pwd=admin123;database=universidades_db;Allow User Variables=True"
+    }
+}

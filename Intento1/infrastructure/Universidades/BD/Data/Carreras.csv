@@ -1,0 +1,51 @@
+Id,Nombre,Duracion,FacultadID
+1,Administración de Empresas,5,1
+2,Economía,5,1
+3,Contaduría Pública,5,1
+4,Ingeniería Civil,5,2
+5,Ingeniería Industrial,5,2
+6,Ingeniería de Sistemas,5,2
+7,Medicina,6,3
+8,Enfermería,5,3
+9,Psicología,5,4
+10,Sociología,5,4
+11,Trabajo Social,5,4
+12,Marketing,5,5
+13,Finanzas,5,5
+14,Derecho,5,6
+15,Ingeniería Civil,5,7
+16,Ingeniería Industrial,5,7
+17,Ingeniería de Sistemas,5,7
+18,Medicina,6,8
+19,Enfermería,5,8
+20,Fisioterapia,5,8
+21,Pedagogía,4,9
+22,Educación Inicial,4,9
+23,Administración,5,10
+24,Contabilidad,5,10
+25,Ingeniería Comercial,5,11
+26,Ingeniería Mecatrónica,5,11
+27,Psicología,5,17
+28,Trabajo Social,4,17
+29,Ingeniería Informática,5,17
+30,Educación Primaria,4,17
+31,Derecho,5,88
+32,Ciencias Jurídicas,5,88
+33,Administración de Empresas,5,89
+34,Economía,5,89
+35,Ingeniería Civil,5,90
+36,Ingeniería Industrial,5,90
+37,Ingeniería de Sistemas,5,90
+38,Psicología,5,91
+39,Trabajo Social,4,91
+40,Sociología,5,91
+41,Medicina,6,92
+42,Educación Inicial,4,93
+43,Educación Especial,4,93
+44,Arquitectura,5,94
+45,Diseño Urbano,5,94
+46,Ingeniería en Sistemas,5,95
+47,Tecnologías de la Información,4,95
+48,Ingeniería Civil,5,97
+49,Ingeniería Electrónica,5,97
+50,Ingeniería de Sistemas,5,97

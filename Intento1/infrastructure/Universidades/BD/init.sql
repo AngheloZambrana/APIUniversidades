@@ -1,0 +1,45 @@
+CREATE TABLE IF NOT EXISTS Universidades (
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    Name VARCHAR(255) NOT NULL,
+    Descripcion TEXT NOT NULL,
+    Tipo VARCHAR(100) NOT NULL
+);
+
+CREATE TABLE IF NOT EXISTS Facultades (
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    Nombre VARCHAR(255) NOT NULL,
+    Descricpion TEXT NOT NULL,
+    UniversidadID INT NOT NULL,
+    FOREIGN KEY (UniversidadID) REFERENCES Universidades(Id)
+);
+
+CREATE TABLE IF NOT EXISTS Carreras (
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    Nombre VARCHAR(255) NOT NULL,
+    Duracion INT NOT NULL,
+    FacultadID INT NOT NULL,
+    FOREIGN KEY (FacultadID) REFERENCES Facultades(Id)
+);
+
+CREATE TABLE IF NOT EXISTS Becas (
+     Id INT AUTO_INCREMENT PRIMARY KEY,
+     Nombre VARCHAR(255) NOT NULL,
+    Descripcion TEXT NOT NULL,
+    Criterios TEXT NOT NULL,
+    UniversidadesID INT NOT NULL,
+    FOREIGN KEY (UniversidadesID) REFERENCES Universidades(Id)
+    );
+
+
+-- TRUNCATE ALL TABLES
+DELIMITER //
+CREATE PROCEDURE TruncateAllTables()
+BEGIN
+    SET FOREIGN_KEY_CHECKS = 0;
+    TRUNCATE TABLE Universidades;
+    TRUNCATE TABLE Facultades;
+    TRUNCATE TABLE Carreras;
+    TRUNCATE TABLE Becas;
+    SET FOREIGN_KEY_CHECKS = 1;
+END //
+DELIMITER ;

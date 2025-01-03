@@ -1,0 +1,92 @@
+Id,Nombre,Descripcion,Criterios,UniversidadID
+1,Beca de Vivienda o Albergue,Apoyo económico para estudiantes que no pueden costear una vivienda,Estudiantes con escasos recursos,2
+2,Beca de Trabajo,Proporciona un monto mensual a cambio de trabajo además de raciones alimenticias en el comedor,Estudiantes que aceptan trabajar en la universidad,2
+3,Beca para Elaboración de Tesis o Internado,Ayuda económica para estudiantes que están concluyendo su tesis,Estudiantes en proceso de elaboración de tesis,2
+4,Beca Académica de Pregrado,Libera a los estudiantes de los costos de impresión de diplomas y títulos,Estudiantes que cumplen con los requisitos académicos establecidos,2
+5,Beca de Extensión Universitaria,Vincula la formación de pregrado y posgrado facilitando el acceso a programas adicionales,Estudiantes que participan en programas de extensión universitaria,2
+6,Beca de Deporte y Cultura,Beneficios para estudiantes que representan a la universidad en eventos deportivos y culturales,Deportistas y artistas que participan activamente en eventos representativos de la UMSS,2
+7,Becas para Deportistas,Incluye ingreso libre a la UMSS alimentación gratuita en el comedor y becas económicas mensuales,Deportistas destacados que cumplen con requisitos específicos del reglamento deportivo,2
+8,Beca Generación para Hijos de Graduados,Ofrece un 50% de descuento en carreras semestrales y un 25% en carreras anualizadas para hijos de graduados,Ser hijo de un graduado de la universidad,3
+9,Becas Académicas,Proporcionan apoyo financiero a estudiantes con buen rendimiento académico,Mantener un promedio académico mínimo establecido por la universidad,3
+10,Becas por Mérito,Reconocen a estudiantes destacados en diversas áreas como cultura deporte y liderazgo,Demostrar logros excepcionales en actividades extracurriculares o académicas,3
+11,Beca de Trabajo,Permite a los estudiantes trabajar en la universidad a cambio de una compensación económica,Ser estudiante activo y cumplir con las horas requeridas de trabajo,3
+12,Becas para Proyectos de Investigación,Apoyo financiero para estudiantes que deseen realizar proyectos de investigación durante su carrera,Presentar un proyecto viable que cumpla con los criterios establecidos por la universidad,3
+13,Beca de Excelencia Académica,Apoyo financiero para estudiantes que demuestran un alto rendimiento académico en sus estudios,Mantener un promedio académico mínimo establecido por la universidad,4
+14,Beca de Trabajo,Permite a los estudiantes trabajar en la universidad y recibir una compensación económica,Ser estudiante regular y cumplir con las horas requeridas de trabajo,4
+15,Beca por Necesidad Económica,Ayuda económica para estudiantes que enfrentan dificultades financieras para continuar sus estudios,Demostrar necesidad económica mediante documentación pertinente,4
+16,Beca de Investigación,Apoyo financiero para estudiantes que deseen realizar proyectos de investigación durante su carrera,Presentar un proyecto de investigación que cumpla con los criterios establecidos por la universidad,4
+17,Beca por Actividades Extracurriculares,Reconocimiento y apoyo a estudiantes que participan activamente en actividades culturales o deportivas,Participación activa en eventos o programas organizados por la universidad,4
+18,Beca de Excelencia Académica,Apoyo financiero para estudiantes con un rendimiento académico destacado,Mantener un promedio académico mínimo establecido por la universidad,5
+19,Beca de Necesidad Económica,Ayuda económica destinada a estudiantes que enfrentan dificultades financieras,Demostrar necesidad económica mediante documentación pertinente,5
+20,Beca para Hijos de Graduados,Descuentos en matrícula y pensiones para hijos de exalumnos de la universidad,Ser hijo de un graduado de la UAB,5
+21,Beca de Servicio Comunitario,Reconocimiento y apoyo a estudiantes que participan en proyectos de servicio comunitario,Participar activamente en actividades de servicio organizadas por la universidad,5
+22,Beca de Liderazgo,Apoyo a estudiantes que demuestran habilidades de liderazgo en actividades académicas o extracurriculares,Demostrar liderazgo en grupos estudiantiles o actividades universitarias,5
+23,Beca de Excelencia Académica,Apoyo financiero para estudiantes con un rendimiento académico sobresaliente,Mantener un promedio académico mínimo establecido por la universidad,6
+24,Beca de Necesidad Económica,Ayuda económica destinada a estudiantes que enfrentan dificultades financieras para continuar sus estudios,Demostrar necesidad económica mediante documentación pertinente,6
+25,Beca por Mérito Deportivo,Reconocimiento y apoyo a estudiantes que destacan en actividades deportivas,Participación activa en eventos deportivos representando a la universidad,6
+26,Beca de Trabajo Estudiantil,Oportunidad de trabajar en la universidad a cambio de una compensación económica,Ser estudiante regular y cumplir con las horas requeridas de trabajo,6
+27,Beca para Proyectos de Investigación,Apoyo financiero para estudiantes que deseen realizar proyectos de investigación durante su carrera,Presentar un proyecto viable que cumpla con los criterios establecidos por la universidad,6
+28,Becas Incentivo,Apoyo financiero para estudiantes de más de una veintena de carreras profesionales,Dirigido a bachilleres que buscan iniciar su formación universitaria,7
+29,Becas por Necesidad Económica,Ayuda económica destinada a estudiantes que enfrentan dificultades financieras,Demostrar necesidad económica mediante documentación pertinente,7
+30,Descuentos por Mérito Académico,Ofrece descuentos en matrícula para estudiantes con buen rendimiento académico,Mantener un promedio académico mínimo establecido por la universidad,7
+31,Becas para Capacitación en el Extranjero,Oportunidades de capacitación y formación en el exterior para estudiantes destacados,Ser estudiante regular y cumplir con los requisitos del programa de capacitación,7
+32,Becas de Trabajo Estudiantil,Posibilidad de trabajar dentro de la universidad a cambio de una compensación económica,Ser estudiante activo y cumplir con las horas requeridas de trabajo,7
+33,Beca de Excelencia Académica,Apoyo financiero para estudiantes con alto rendimiento académico,Mantener un promedio académico mínimo establecido por la universidad,8
+34,Beca por Necesidad Económica,Ayuda económica destinada a estudiantes que enfrentan dificultades financieras,Demostrar necesidad económica mediante documentación pertinente,8
+35,Beca de Trabajo Estudiantil,Oportunidad de trabajar en la universidad a cambio de una compensación económica,Ser estudiante regular y cumplir con las horas requeridas de trabajo,8
+36,Beca para Proyectos de Investigación,Apoyo financiero para estudiantes que deseen realizar proyectos de investigación durante su carrera,Presentar un proyecto viable que cumpla con los criterios establecidos por la universidad,8
+37,Beca de Liderazgo,Reconocimiento y apoyo a estudiantes que demuestran habilidades de liderazgo en actividades académicas o extracurriculares,Demostrar liderazgo en grupos estudiantiles o actividades universitarias,8
+38,Beca de Excelencia Académica,Apoyo financiero para los mejores estudiantes que rinden una prueba de selección,Ser estudiante destacado en su colegio y aprobar el examen de selección,9
+39,Beca Familiar,Descuentos para familias que tienen varios miembros estudiando en la universidad,Aplicable a hermanos padres e hijos o esposos que estudian simultáneamente en la UPAL,9
+40,Beca Trabajo,Oportunidad para estudiantes de trabajar en la universidad a cambio de una compensación económica,Ser estudiante regular a partir del segundo semestre y cumplir con las horas requeridas,9
+41,Becas Deportivas y Culturales,Descuentos en la matrícula para estudiantes que participan activamente en deportes o actividades culturales,Participación activa en equipos deportivos o grupos artísticos de la universidad,9
+42,Becas por Necesidad Económica,Ayuda económica destinada a estudiantes con dificultades financieras,Demostrar necesidad económica mediante documentación pertinente,9
+43,Becas de Postgrado,Ofrecen financiamiento completo para estudios de maestría en universidades de España Suiza y Bélgica,Estudiantes que sean aceptados en programas de postgrado y cumplan con los requisitos de la Fundación,10
+44,Becas de Excelencia Académica,Apoyo financiero para estudiantes con un alto rendimiento académico durante su carrera,Mantener un promedio académico mínimo establecido por la universidad,10
+45,Becas por Necesidad Económica,Ayuda económica destinada a estudiantes que enfrentan dificultades financieras,Demostrar necesidad económica mediante documentación pertinente,10
+46,Becas de Investigación,Apoyo financiero para estudiantes que deseen realizar proyectos de investigación durante su carrera,Presentar un proyecto viable que cumpla con los criterios establecidos por la universidad,10
+47,Becas para Actividades Extracurriculares,Reconocimiento y apoyo a estudiantes que participan activamente en actividades culturales o deportivas,Participación activa en eventos o programas organizados por la universidad,10
+48,Beca de Excelencia Académica,Apoyo financiero para estudiantes con un alto rendimiento académico,Mantener un promedio académico mínimo establecido por la universidad,11
+49,Beca por Necesidad Económica,Ayuda económica destinada a estudiantes que enfrentan dificultades financieras,Demostrar necesidad económica mediante documentación pertinente,11
+50,Becas para Bachilleres,Ofrecen hasta el 100% de descuento en la matrícula para nuevos bachilleres,Presentar fotocopia del carnet de identidad y título de bachiller,11
+51,Beca de Trabajo Estudiantil,Oportunidad para estudiantes de trabajar en la universidad a cambio de una compensación económica,Ser estudiante regular y cumplir con las horas requeridas de trabajo,11
+52,Becas para Proyectos de Investigación,Apoyo financiero para estudiantes que deseen realizar proyectos de investigación durante su carrera,Presentar un proyecto viable que cumpla con los criterios establecidos por la universidad,11
+53,Beca de Excelencia Académica,Apoyo financiero para estudiantes con un alto rendimiento académico en sus respectivas carreras,Mantener un promedio académico mínimo establecido por la universidad,12
+54,Beca por Necesidad Económica,Ayuda económica destinada a estudiantes que enfrentan dificultades financieras,Demostrar necesidad económica mediante documentación pertinente,12
+55,Beca de Formación Comunitaria,Apoyo a estudiantes que participan en proyectos de desarrollo comunitario en áreas indígenas,Participar activamente en proyectos comunitarios relacionados con la misión de la universidad,12
+56,Beca para Estudiantes Indígenas,Descuentos o apoyo financiero específico para estudiantes pertenecientes a comunidades indígenas,Ser miembro de una comunidad indígena reconocida y cumplir con los requisitos académicos,12
+57,Beca de Investigación Aplicada,Apoyo financiero para proyectos de investigación que beneficien a comunidades indígenas,Presentar un proyecto viable que cumpla con los criterios establecidos por la universidad,12
+58,Becas para Cadetes,Apoyo financiero para cadetes que ingresan a la institución y se comprometen a servir en el Ejército,Ser aceptado como cadete y cumplir con los requisitos académicos y de conducta,13
+59,Becas para Hijos de Personal Militar,Ofrecen apoyo económico para hijos de militares que deseen ingresar a la EMI,Ser hijo de personal activo o retirado del Ejército o Fuerza Aérea,13
+60,Becas por Desempeño Académico,Reconocimiento y apoyo financiero para estudiantes que demuestran un rendimiento académico sobresaliente,Mantener un promedio académico mínimo establecido por la institución,13
+61,Becas de Investigación,Apoyo financiero para proyectos de investigación que beneficien al ámbito militar y tecnológico,Presentar un proyecto viable que cumpla con los criterios establecidos por la universidad,13
+62,Becas de Especialización para Oficiales,Oportunidades de financiamiento para oficiales que deseen realizar cursos de especialización en áreas técnicas,Ser oficial en servicio activo y cumplir con los requisitos del programa de especialización,13
+63,Beca de Excelencia Académica,Apoyo financiero para estudiantes con un alto rendimiento académico,Mantener un promedio académico mínimo establecido por la universidad,14
+64,Beca por Necesidad Económica,Ayuda económica destinada a estudiantes que enfrentan dificultades financieras,Demostrar necesidad económica mediante documentación pertinente,14
+65,Becas para Hijos de GraduadosX,Descuentos en matrícula para hijos de exalumnos de la universidad,Ser hijo de un graduado de la UCB,14
+66,Beca de Servicio Comunitario,Reconocimiento y apoyo a estudiantes que participan en proyectos de servicio comunitario,Participar activamente en actividades de servicio organizadas por la universidad,14
+67,Becas para Proyectos de Investigación,Apoyo financiero para estudiantes que deseen realizar proyectos de investigación durante su carrera,Presentar un proyecto viable que cumpla con los criterios establecidos por la universidad,14
+68,Becas para Bachilleres Indígenas,Ofrecen becas completas a bachilleres indígenas de zonas rurales para facilitar su acceso a la educación,Ser bachiller indígena de una zona rural y cumplir con los requisitos de admisión,15
+69,Beca de Excelencia Académica,Apoyo financiero para estudiantes con un alto rendimiento académico,Mantener un promedio académico mínimo establecido por la universidad,15
+70,Beca por Necesidad Económica,Ayuda económica destinada a estudiantes que enfrentan dificultades financieras,Ayuda económica destinada a estudiantes que enfrentan dificultades financieras,15
+71,Becas de Trabajo Estudiantil,Oportunidad para estudiantes de trabajar en la universidad a cambio de una compensación económica,Ser estudiante regular y cumplir con las horas requeridas de trabajo,15
+72,Becas para Proyectos de Extensión Social,Apoyo financiero para estudiantes que participen en proyectos de extensión social dirigidos a comunidades.,Participar activamente en proyectos comunitarios relacionados con la misión de la universidad.,15
+73,Beca Automática del 60%,Descuento del 60% en matrícula y colegiatura para ciudadanos de la Comunidad Andina.,Ser ciudadano de un país miembro de la Comunidad Andina.,16
+74,Becas Completas para Programas de Posgrado,Oportunidades de financiamiento completo para estudiantes destacados en programas de posgrado.,Ser aceptado en un programa de posgrado y cumplir con los requisitos académicos establecidos.,16
+75,Becas por Desempeño Académico,Reconocimiento y apoyo financiero para estudiantes que demuestran un rendimiento académico sobresaliente.,Mantener un promedio académico mínimo establecido por la universidad.,16
+76,Becas para Intercambio Internacional,Oportunidades para participar en programas de intercambio con universidades internacionales.,Cumplir con los requisitos del programa y ser estudiante regular.,16
+77,Becas para Proyectos de Investigación,Apoyo financiero para proyectos de investigación que contribuyan al desarrollo académico y social.,Presentar un proyecto viable que cumpla con los criterios establecidos por la universidad.,16
+78,Beca de Excelencia Académica,Apoyo financiero para estudiantes con un alto rendimiento académico en sus carreras.,Mantener un promedio académico mínimo establecido por la universidad.,17
+79,Beca por Necesidad Económica,Ayuda económica destinada a estudiantes que enfrentan dificultades financieras.,Demostrar necesidad económica mediante documentación pertinente.,17
+80,Becas para Estudiantes de Zonas Rurales,Apoyo financiero para estudiantes que provienen de comunidades rurales y tienen dificultades para acceder a la educación superior.,Ser residente de una zona rural y cumplir con los requisitos de admisión.,17
+81,Beca de Trabajo Estudiantil,Oportunidad para estudiantes de trabajar en la universidad a cambio de una compensación económica.,Ser estudiante regular y cumplir con las horas requeridas de trabajo.,17
+82,Becas para Proyectos de Investigación,Apoyo financiero para estudiantes que deseen realizar proyectos de investigación durante su carrera.,Presentar un proyecto viable que cumpla con los criterios establecidos por la universidad.,17
+83,Beca de Excelencia Académica,Apoyo financiero para estudiantes con un alto rendimiento académico en sus carreras.,Mantener un promedio académico mínimo establecido por la universidad.,18
+84,Beca por Necesidad Económica,Ayuda económica destinada a estudiantes que enfrentan dificultades financieras.,Demostrar necesidad económica mediante documentación pertinente.,18
+85,Becas para Estudiantes de Zonas Rurales,Apoyo financiero para estudiantes que provienen de comunidades rurales y tienen dificultades para acceder a la educación superior.,Ser residente de una zona rural y cumplir con los requisitos de admisión.,18
+86,Beca de Trabajo Estudiantil,Oportunidad para estudiantes de trabajar en la universidad a cambio de una compensación económica.,Ser estudiante regular y cumplir con las horas requeridas de trabajo.,18
+87,Becas para Proyectos de Investigación,Apoyo financiero para estudiantes que deseen realizar proyectos de investigación durante su carrera.,Presentar un proyecto viable que cumpla con los criterios establecidos por la universidad.,18
+88,Beca de Alimentación,Proporciona apoyo económico para la alimentación de estudiantes durante su formación académica.,Estudiantes regulares que cumplan con los requisitos establecidos por la universidad.,19
+89,Beca Auxiliar de Docencia,Oportunidad para estudiantes de trabajar como auxiliares en el proceso de enseñanza.,Ser estudiante regular y cumplir con los requisitos de postulación establecidos por la universidad.,19
+90,Beca por Necesidad Económica,Ayuda económica destinada a estudiantes que enfrentan dificultades financieras.,Demostrar necesidad económica mediante documentación pertinente.,19
+91,Becas para Proyectos de Investigación,Apoyo financiero para estudiantes que deseen realizar proyectos de investigación durante su carrera.,Presentar un proyecto viable que cumpla con los criterios establecidos por la universidad.,19
