@@ -1,6 +1,3 @@
-# APIUniversidades
-Una API donde se gestionara la informacion de las universidades en Bolivia, Cochabamba.
-
 # Proyecto API Universidades Cochabamba
 
 Este proyecto está dividido en tres partes principales:
